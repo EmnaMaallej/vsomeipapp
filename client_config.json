@@ -16,7 +16,6 @@
             "unreliable": "30509"
         }
     ],
-    "routing": "Client",
     "service-discovery": {
         "enable": "true",
         "multicast": "224.224.224.245",
