@@ -22,7 +22,6 @@
             ]
         }
     ],
-    "routing": "Server",
     "service-discovery": {
         "enable": "true",
         "multicast": "224.224.224.245",
